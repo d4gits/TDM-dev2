@@ -17,7 +17,7 @@
 
 I'm mobile developer from Anamaduwa,Sri  Lanka
 <br />
-| *#AndroidDev* | Java 🧡 &nbsp; | Kotlin 💜  &nbsp; | Flutter 💙 &nbsp; | Writer ✍🏻 &nbsp; |
+| Java 🧡 &nbsp; | Flutter 💙 &nbsp; | Writer ✍🏻 &nbsp; |
 
 - 📖 &nbsp; I'm currently learning [Flutter](https://github.com/flutter/flutter)
 - ✍🏻 &nbsp; I'm enjoy sharing my experiences throught writing on Medium.
@@ -26,7 +26,5 @@ I'm mobile developer from Anamaduwa,Sri  Lanka
 
 <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 </code> &nbsp;
-<code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
-</code> &nbsp; 
 <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
 </code> &nbsp;
